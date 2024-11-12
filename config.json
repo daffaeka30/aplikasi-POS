@@ -1,0 +1,24 @@
+{
+    "modules": [
+        "dashboard",
+        "main_navigation",
+        "product_list",
+        "product_form",
+        "sales_transaction",
+        "sales_report",
+        "stock_report",
+        "profile",
+        "purchase_order",
+        "product_detail",
+        "login"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "learning_mode": false,
+    "unfreezed": true,
+    "use_cubit": true,
+    "ignore_core_generator_for_directories": [
+        "lib/model",
+        "lib/models"
+    ]
+}
